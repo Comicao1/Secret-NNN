@@ -1457,7 +1457,7 @@
 #include "code\ZAS\Zone.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
-#include "maps\NSV_Luna11321_Normal.dmm"
+#include "maps\tgstationnow.dmm"
 #include "maps\encounters\satellite.dm"
 #include "maps\encounters\bearcat.dmm"
 #include "maps\encounters\cargo_wreck.dmm"
